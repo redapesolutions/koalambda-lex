@@ -1,0 +1,15 @@
+{
+  "name": "koalambda-lex-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matiboy <mathieu@redapesolutions.com>",
+  "license": "ISC",
+  "dependencies": {
+    "koalambda": "^0.1.15",
+    "serverless": "^1.26.1"
+  }
+}
